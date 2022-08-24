@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simple-shopping-react/static/css/main.17254098.css",
+    "main.js": "/simple-shopping-react/static/js/main.8c9ba1bb.js",
+    "static/js/787.e0fe4c5d.chunk.js": "/simple-shopping-react/static/js/787.e0fe4c5d.chunk.js",
+    "static/media/sneakers.jpg": "/simple-shopping-react/static/media/sneakers.30ff299377ac682a0f59.jpg",
+    "static/media/jackets.jpg": "/simple-shopping-react/static/media/jackets.1c82aedd49cdf7bc13cf.jpg",
+    "static/media/hat.png": "/simple-shopping-react/static/media/hat.cce458fba7217bdc7e08.png",
+    "static/media/mens.jpg": "/simple-shopping-react/static/media/mens.cef4dd5c6e0fc7109589.jpg",
+    "static/media/womens.jpg": "/simple-shopping-react/static/media/womens.de3a483ef448b22c6b3f.jpg",
+    "static/media/shopping-bag.svg": "/simple-shopping-react/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "static/media/crown.svg": "/simple-shopping-react/static/media/crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
+    "index.html": "/simple-shopping-react/index.html",
+    "main.17254098.css.map": "/simple-shopping-react/static/css/main.17254098.css.map",
+    "main.8c9ba1bb.js.map": "/simple-shopping-react/static/js/main.8c9ba1bb.js.map",
+    "787.e0fe4c5d.chunk.js.map": "/simple-shopping-react/static/js/787.e0fe4c5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17254098.css",
+    "static/js/main.8c9ba1bb.js"
+  ]
+}
